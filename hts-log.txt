@@ -1,0 +1,11 @@
+HTTrack3.49-2 launched on Mon, 27 Feb 2023 09:50:28 at https://www.classcentral.com/
+(httrack https://www.classcentral.com/ -r1 -%e0 -F "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 seconds : 2 links scanned, 1 files written (664568 bytes overall) [117200 bytes received at 29300 bytes/sec], 664787 bytes transferred using HTTP compression in 2 files, ratio 17%
+(No errors, 0 warnings, 0 messages)
